@@ -1,6 +1,13 @@
 {
   "dependencies": {
-    "chart.js": "^4.4.3",
-    "react-chartjs-2": "^5.2.0"
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.12.7"
+  },
+
+  "resolutions": {
+    "react-scripts/eslint-webpack-plugin": "2.3.0"
   }
+
 }
+
